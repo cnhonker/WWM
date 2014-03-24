@@ -23,7 +23,7 @@ import javax.swing.plaf.LayerUI;
 import ry.util.BasicUtil;
 
 /**
- * HauptFenster
+ * Hauptfenster
  * 
  * @author ry
  */

@@ -122,7 +122,7 @@ final class MainPanel extends JPanel {
         public void propertyChange(PropertyChangeEvent evt) {
             switch (evt.getPropertyName()) {
                 case ("richtig"):
-                    System.out.println("HALLO");
+                    //System.out.println("HALLO");
                     if (evt.getNewValue().equals(true)) {
                         jkr.resetTimer();
                         if (pkt.getTableStufe() == 0) {
